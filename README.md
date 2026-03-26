@@ -1,4 +1,4 @@
-# AI_Testing
+# AI Testing
 AI Testing techniques and payloads
 
 ## XML Prompt injection list for use with AI Prompt Fuzzer Burp extension
